@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: RandomWalkParameters_Test
   m_EditorClassIdentifier: 
   iterations: 100
-  walkLength: 500
+  walkLength: 250
   startRandomEachIteration: 0
   lakeIterations: 50
   lakeWalkLength: 50
